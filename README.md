@@ -3,7 +3,7 @@
 ## Student Information
 Name: Ashish Joshi  
 Program: MS Artificial Intelligence  
-University: Boston University  
+Boston University  
 
 ---
 
@@ -147,11 +147,24 @@ Tablet View:
 
 ---
 
-# AI Disclosure
+# AI Usage Disclosure
 
-AI assistance was used to:
-- Understand layout requirements
-- Improve modifier usage
-- Refine component structure
+For this assignment, I used AI (LLM-based tools) as a learning and guidance resource.
 
-All implementation, debugging, testing, and final integration were completed and verified by the student.
+AI was used for:
+- Clarifying Jetpack Compose layout concepts (Row, Column, Box, FlowRow, FlowColumn)
+- Understanding Material 3 component usage
+- Improving modifier usage and layout structure
+- Debugging small issues and resolving UI errors
+- Refining README formatting and documentation structure
+
+However:
+
+- All layout implementation, screen design decisions, and structural logic were written and organized by me.
+- I personally implemented Q1, Q2, Q3, and Q4 according to assignment requirements.
+- I tested layouts on both phone and tablet configurations myself.
+- All screenshots, project setup, Git repository management, and final integration were completed independently by me.
+
+AI was used strictly as a support tool to enhance understanding and improve code quality, not to replace the problem-solving process.
+
+I confirm that this submission reflects my own work and understanding of Jetpack Compose layouts.
