@@ -41,7 +41,7 @@ This screen demonstrates proper usage of Row and Column nesting in Jetpack Compo
 - background
 
 ### Screenshot
-![Q1 Settings](screenshots/q1_settings.png)
+![Q1 Settings](screenshots/q1_settings.png.jpeg)
 
 ---
 
@@ -75,7 +75,7 @@ This screen demonstrates layered UI using Box with overlapping components.
 - fillMaxWidth
 
 ### Screenshot
-![Q2 Profile](screenshots/q2_profile.png)
+![Q2 Profile](screenshots/q2_profile.png.jpeg)
 
 ---
 
@@ -106,7 +106,7 @@ This screen demonstrates dynamic wrapping layouts using FlowRow and FlowColumn.
 - dynamic selected color change
 
 ### Screenshot
-![Q3 Tag Browser](screenshots/q3_tagbrowser.png)
+![Q3 Tag Browser](screenshots/q3_tagbrowser.png.jpeg)
 
 ---
 
@@ -140,10 +140,10 @@ This screen adapts layout based on screen width using BoxWithConstraints.
 ### Screenshots
 
 Phone View:
-![Q4 Phone](screenshots/q4_phone.png)
+![Q4 Phone](screenshots/q4_phone.png.jpeg)
 
 Tablet View:
-![Q4 Tablet](screenshots/q4_tablet.png)
+![Q4 Tablet](screenshots/q4_tablet.png.jpeg)
 
 ---
 
